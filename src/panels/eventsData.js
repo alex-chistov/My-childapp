@@ -10,6 +10,7 @@ const events = {
       image:
         "https://cdn.culture.ru/images/ddd368c0-c588-582e-810d-735af41a1d64",
       category: "творчество",
+      price: "500 руб.",
     },
     {
       id: 2,
@@ -21,6 +22,7 @@ const events = {
       image:
         "https://avatars.mds.yandex.net/i?id=7b3ad056b077e9e890315bb7a3a6e4b7f15c3638d3c4bce8-4886004-images-thumbs&n=13",
       category: "история",
+      price: "Бесплатно",
     },
   ],
   places: [
@@ -33,6 +35,7 @@ const events = {
       image:
         "https://sun9-43.userapi.com/impg/C_ZBwUM2TzuqBaFd5L_ohcALdxCd0NSu2HViag/Us6XYQcg97c.jpg?size=1080x720&quality=95&sign=ff8dcd71762f6d81a7d3997ce668db6e&c_uniq_tag=eHOTL7KiKsHUpKdlXo-ErIHlS_RvYW5Wx5YZvg3BWd0&type=album",
       category: "культура",
+      price: "300 руб.",
     },
   ],
   development: [
@@ -47,6 +50,7 @@ const events = {
       image: "https://via.placeholder.com/150/32CD32",
       category: "языки",
       contacts: "Ирина Валерьевна, +79996667788",
+      price: "1500 руб.",
     },
     {
       id: 5,
@@ -60,6 +64,7 @@ const events = {
       image: "https://via.placeholder.com/150/FFB6C1",
       category: "кулинария",
       contacts: "Алексей Викторович, +79993334455",
+      price: "2000 руб.",
     },
     {
       id: 6,
@@ -72,6 +77,7 @@ const events = {
       image: "https://via.placeholder.com/150/32CD32",
       category: "программирование",
       contacts: "Виктор Иванович, +79998889977",
+      price: "2500 руб.",
     },
     {
       id: 7,
@@ -85,6 +91,7 @@ const events = {
       image: "https://via.placeholder.com/150/FFD700",
       category: "танцы",
       contacts: "Екатерина Игоревна, +79995556677",
+      price: "800 руб.",
     },
     {
       id: 8,
@@ -98,6 +105,7 @@ const events = {
       image: "https://via.placeholder.com/150/90EE90",
       category: "волонтерство",
       contacts: "Ольга Васильевна, +79992224466",
+      price: "Бесплатно",
     },
   ],
 };
